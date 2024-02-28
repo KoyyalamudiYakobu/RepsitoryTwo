@@ -22,7 +22,7 @@ public class Payment
 	
 	public void weeklyreport() {
 		
-		System.out.println(" this is weekly report");
+		System.out.println(" this is weekly report");//
 	}
 	
 	
