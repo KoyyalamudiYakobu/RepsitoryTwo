@@ -19,4 +19,10 @@ public class Payment
 	public void dailyreport() {
 		System.out.println(" this is daily report");
 	}
+	
+	public void weeklyreport() {
+		
+		System.out.println(" this is weekly report");
+	}
+	
 }
