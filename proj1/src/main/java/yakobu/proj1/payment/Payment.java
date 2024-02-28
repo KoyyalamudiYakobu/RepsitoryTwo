@@ -14,4 +14,9 @@ public class Payment
 	public void onlineTransaction() {
 		System.out.println(" this is online transaction method");
 	}
+	
+	
+	public void dailyreport() {
+		System.out.println(" this is daily report");
+	}
 }
