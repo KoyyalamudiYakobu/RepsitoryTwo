@@ -25,4 +25,10 @@ public class Payment
 		System.out.println(" this is weekly report");
 	}
 	
+	public void yearlyReport() {
+	
+		
+		
+	}
+	
 }
