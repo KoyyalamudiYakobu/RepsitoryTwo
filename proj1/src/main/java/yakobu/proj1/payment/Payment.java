@@ -9,4 +9,9 @@ public class Payment
 	public void upipayment() {
 		System.out.println(" this is upi paymnent method");
 	}
+	
+	
+	public void onlineTransaction() {
+		System.out.println(" this is online transaction method");
+	}
 }
